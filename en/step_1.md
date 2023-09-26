@@ -1,4 +1,4 @@
-You can use `pause`{:class='microbitbasic'} blocks to make your program wait for a set time.
+You can use a `pause`{:class='microbitbasic'} block to make your program wait for a set time.
 
 - You can find the `pause`{:class='microbitbasic'} block in the `Basic`{:class='microbitbasic'} menu in your Toolbox.
 
